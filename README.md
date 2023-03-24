@@ -1,4 +1,4 @@
-# youtube-bulk_shedueling-upload
+# youtube-bulk-Scheduling-upload
 
 install macro recoder 
 https://www.macrorecorder.com/
