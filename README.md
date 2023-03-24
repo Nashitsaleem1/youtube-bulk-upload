@@ -15,4 +15,4 @@ and open edit draft screen
 
 then press ctrl T to eun .mrf 
 
-your video details will start chaning 
+your video details will start changing Scheduling
